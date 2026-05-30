@@ -35,5 +35,5 @@ Currently exploring Python, Data Science, and Web Development.
 ---
 
 📫 **Connect with me:**  
-- 📧 Email: (add your email here)  
+- 📧 Email: (khantanzila181@gmail.com )  
 - 🌐 GitHub: [TanzilaKhan73](https://github.com/TanzilaKhan73)
