@@ -2,28 +2,36 @@
 
 # 👩‍💻 Tanzila Khan
 
-### B.Tech CSE Student | Integral University  
-Learning **Python** and exploring **Data Science** and **Machine Learning**.
+### B.Tech CSE Student | Integral University 
 
+💡 Passionate about Artificial Intelligence, Data Science, and Web Development
 ---
-
 ## 📘 About Me
-I am a passionate Computer Science student with a keen interest in data-driven technologies.  
-Currently learning Python and working on small projects to build my portfolio.
+I am a dedicated B.Tech CSE student at Integral University with a strong academic record (CGPA: 9.49).  
+I am passionate about learning new technologies and building real-world projects.  
+Currently exploring Python, Data Science, and Web Development.
 
----
 
-## 💻 Skills
+---## 💻 Skills
 - Programming: Python, C  
-- Data Analysis: Pandas, NumPy (learning)  
-- Tools: GitHub, Jupyter Notebook  
-- Interests: Data Science, Machine Learning, AI
+- Web Development: HTML, CSS, JavaScript  
+- Data Analysis: Pandas, NumPy (Learning)  
+- Tools: GitHub, Jupyter Notebook
+
 
 ---
 
-## 🚀 Projects
-I will be uploading my projects here soon — stay tuned!  
 
+
+## 📂 Projects
+
+### 🔐 Login & Registration System
+- Built using HTML, CSS, JavaScript  
+- Implemented authentication using localStorage  
+
+### 🎓 Student Management System
+- Basic system to manage student data  
+- Implemented using programming concepts
 ---
 
 📫 **Connect with me:**  
