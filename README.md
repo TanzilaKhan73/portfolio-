@@ -4,7 +4,8 @@
 
 ### B.Tech CSE Student | Integral University 
 
-💡 Passionate about Artificial Intelligence, Data Science, and Web Development
+💡 Passionate about Web Development and building real-world projects  
+🌱 Currently learning Data Science and Machine Learning
 ---
 ## 📘 About Me
 I am a dedicated B.Tech CSE student at Integral University with a strong academic record (CGPA: 9.49).  
